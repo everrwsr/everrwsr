@@ -1,6 +1,6 @@
 # I am everr.😜
 
-- [infj](https://www.16personalities.com/infj-conclusion)
+- [INFJ](https://www.16personalities.com/infj-conclusion)
 - Software Enginner at [Xi’an University of Finance and Economics](https://www.xaufe.edu.cn/).
 
 
