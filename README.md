@@ -3,11 +3,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/everrwsr/count.svg)
 
 ------
-# I am everr.😜
+# I am everr. A Software Engnieer.😜
 
-- [INFJ](https://www.16personalities.com/infj-conclusion)
-- Software Enginner at [Xi’an University of Finance and Economics](https://www.xaufe.edu.cn/).
+- This is my MBTI type: [INFJ](https://www.16personalities.com/infj-conclusion)
+- Learning Software Enginner at [Xi’an University of Finance and Economics](https://www.xaufe.edu.cn/). (Sep,2020 - Present)
+- This is my Blog: [blog](https://everrwsr.github.io/memehugo/)
+- I like Philosophy . I've benefited a lot in it.
+- ...
 
 
-## This is me in github.
+## This is me in github . 
 ![hi](https://github-readme-stats.vercel.app/api?username=everrwsr)
