@@ -7,7 +7,7 @@
 
 - This is my MBTI type: [INFJ](https://www.16personalities.com/infj-conclusion)
 - Learning Software Enginner at [Xi’an University of Finance and Economics](https://www.xaufe.edu.cn/). (Sep,2020 - Present)
-- This is my Blog: [blog](https://everrwsr.github.io/memehugo/)
+- This is my Blog: [blog](https://everrwsr.github.io/)
 - I like Philosophy . I've benefited a lot in it.
 - ...
 
